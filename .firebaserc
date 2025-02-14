@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "bis-game",
+    "game": "bis-game"
+  },
+  "targets": {},
+  "etags": {}
+}
